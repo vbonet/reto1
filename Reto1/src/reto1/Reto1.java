@@ -3,7 +3,7 @@ package reto1;
 public class Reto1 {
 
 	public static void main(String[] args) {
-		System.out.println();
+		System.out.println("hola");
 
 	}
 
